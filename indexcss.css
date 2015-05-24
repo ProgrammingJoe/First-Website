@@ -1,0 +1,350 @@
+#backgroundmain {
+	margin: 0;
+	background-image:url('background.png');
+	width: 100%;
+	height: 1235px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h4 {
+	font-weight: bold;
+  color: #000000;
+  font-size: 24px;
+}
+
+#background2{
+	position: absolute;
+	top:30px;
+	width:1180px;
+	height:1175px;
+	margin-bottom:30px;
+	background-image:url('backgroundtrans.png');
+	background-position: center center;
+    left: 50%;
+    margin-left: -600px;
+}
+
+#buttonbackground{
+	background-color:FAFFFF;
+	width:660px;
+	height:210px;
+	position:absolute;
+	left: 480px;
+	top: 40px;
+	border: 2px solid #4A0500;
+}
+
+#blerb {
+	position:absolute;
+	left:20px;
+	top:10px;
+	width:170px;
+}
+
+#blerb p {
+	font-family:"Malgun Gothic";
+}
+
+#aboutinfo{
+	position: absolute;
+	left:40px;
+	top:120px;
+	background-color:FAFFFF;
+	height: 400px;
+	width: 400px;
+	border: 2px solid #4A0500;
+}
+
+#aboutinfo p{
+	margin: 20px;
+	font-family:"Malgun Gothic";
+	text-indent : 20px;
+}
+
+#skillsinfo{
+	position:absolute;
+	left: 480px;
+	top: 330px;
+	background-color:FAFFFF;
+	height: 520px;
+	width: 660px;
+	border: 2px solid #4A0500;
+}
+
+#connectbar{
+	position:absolute;
+	left:40px;
+	top:600px;
+	background-color:FAFFFF;
+	height: 250px;
+	width: 400px;
+	border: 2px solid #4A0500;
+}
+
+#linkedbutton{
+	position: absolute;
+	left:20px;
+	top:20px;
+}
+
+#gmailbutton{
+	position: absolute;
+	left: 20px;
+	top: 115px;
+}
+
+#linkedbutton p{
+	position: absolute;
+	margin-right:20px;
+	width:360px;
+	font-family:"Malgun Gothic";
+}
+
+#gmailbutton p{
+	position: absolute;
+	margin-right:20px;
+	width:360px;
+	font-family:"Malgun Gothic";
+}
+
+#JavaProgramming{
+	position:absolute;
+	top:20px;
+	left:20px;
+}
+
+#Bugzilla{
+	position:absolute;
+	top:115px;
+	left:20px;
+}
+
+#CSS{
+	position:absolute;
+	top:210px;
+	left:20px;
+}
+
+#GoogleDocuments{
+	position:absolute;
+	top:305px;
+	left:20px;
+}
+
+#HtmlProgramming{
+	position:absolute;
+	top:400px;
+	left:20px;
+}
+
+#MicrosoftWord{
+	position:absolute;
+	top:20px;
+	left:340px;
+}
+
+#Organization{
+	position:absolute;
+	top:115px;
+	left:340px;
+}
+
+#QualityAssurance{
+	position:absolute;
+	top:210px;
+	left:340px;
+}
+
+#Teamwork{
+	position:absolute;
+	top:305px;
+	left:340px;
+}
+
+#TestTrack{
+	position:absolute;
+	top:400px;
+	left:340px;
+}
+
+#below{
+	position:absolute;
+	top:490px;
+	left:20px;
+	font-family:"Malgun Gothic";
+}
+
+
+#javalogo{
+	position:absolute;
+	top:22px;
+	left:22px;
+	height:75px;
+	width:75px;
+}
+
+#buglogo{
+	position:absolute;
+	top:117px;
+	left:22px;
+	height:75px;
+	width:75px;
+}
+
+#csslogo{
+	position:absolute;
+	top:219px;
+	left:24px;
+	height:65px;
+	width:70px;
+}
+
+#googlelogo{
+	position:absolute;
+	top:307px;
+	left:22px;
+	height:75px;
+	width:75px;
+}
+
+#htmllogo{
+	position:absolute;
+	top:407px;
+	left:22px;
+	height:65px;
+	width:75px;
+}
+
+/* THIS IS THE TOP OF LOGOS */
+#javalogo{
+	position:absolute;
+	top:22px;
+	left:22px;
+	height:75px;
+	width:75px;
+}
+#testtracklogo{
+	position:absolute;
+	top:404px;
+	left:344px;
+	height:71px;
+	width:71px;
+}
+#wordlogo{
+	position:absolute;
+	top:24px;
+	left:342px;
+	height:71px;
+	width:71px;
+}
+#organlogo{
+	position:absolute;
+	top:117px;
+	left:342px;
+	height:75px;
+	width:75px;
+}
+#qalogo{
+	position:absolute;
+	top:212px;
+	left:342px;
+	height:75px;
+	width:75px;
+}
+#teamworklogo{
+	position:absolute;
+	top:307px;
+	left:342px;
+	height:75px;
+	width:75px;
+}
+/* THIS IS THE BOTTOM OF LOGOS */
+
+#interests{
+	position:absolute;
+	top:930px;
+	left:40px;
+	height:205px;
+	width:1100px;
+	border:2px solid #4A0500;
+	background-color:FAFFFF;
+}
+
+#interests p {
+	position:absolute;
+	margin:20px;
+	font-family:"Malgun Gothic";
+	text-indent : 20px;
+}
+
+#joetitle{
+	position:absolute;
+	top:40px;
+	left:40px;
+}
+
+#skillstitle{
+	position:absolute;
+	top:250px;
+	left:480px;
+}
+
+#abouttitle{
+	position:absolute;
+	top: 850px;
+	left:40px;
+}
+
+#connecttitle{
+	position:absolute;
+	top:520px;
+	left:40px;
+}
+
+#button{
+	position:absolute;
+	top:110px;
+	left:20px;
+	width:170px;
+	height:80px;
+	background-image:url('button.png');
+	}
+	
+#button{
+	position:absolute;
+	width:170px;
+	height:80px;
+	text-align:center;
+	
+}
+
+#welcome{
+	position:absolute;
+	top:-25px;
+	left:270px;
+}
+
+#button a{
+	color:yellow;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+#button a:active{
+	color:red;
+}
+
+#interests a{
+	color:blue;
+}
+
+#interests a:active{
+	color:red;
+}
+
+#project{
+	padding-top:13px;
+}
